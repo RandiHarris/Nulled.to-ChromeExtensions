@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+  "name": "AlwaysShoutbox-Nulled.to",
+  "version": "1.0",
+  "content_scripts": [
+	  {
+		"matches": [
+		  "http://*.nulled.to/*",
+		  "https://*.nulled.to/*"
+		],
+		"js": ["content.js"]
+	  }
+	]
+}
