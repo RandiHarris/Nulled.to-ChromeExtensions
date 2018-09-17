@@ -1,0 +1,3 @@
+//document.getElementById("shoutbox").innerHTML = '<center>Shoutbox hidden by NoShoutbox-Nulled.to Chrome extension<br /><strong>Extension</strong> by <a href="https://www.nulled.to/!1353011"><span itemprop="name"><span class="aqua">Minecon</span></span></a></center>';
+//document.getElementById("shoutbox-announcement-text").innerHTML = "";
+document.getElementById("nulled-bootstrap").innerHTML = '<center>Shoutbox hidden by NoShoutbox-Nulled.to Chrome extension<br /><strong>Extension</strong> by <a href="https://www.nulled.to/!1353011"><span itemprop="name"><span class="aqua">Minecon</span></span></a></center>';
